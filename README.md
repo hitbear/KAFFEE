@@ -1,6 +1,6 @@
 # KAFFEE
 
-A toy JVM written in C. 
+An uncomplete toy class file parser written in C. 
 Just tried to understand how JVM is working. 
 
 Thanks to:
